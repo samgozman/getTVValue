@@ -1,6 +1,6 @@
 # getTVValue for MODx Revolution CMS
 
-My interpretation for lost snippet from MODX Evolution for MODX Revolution users.
+My interpretation for lost *getTVValue* method from MODX Evolution for MODX Revolution users in TV-way.
 
 Just create snippet "getTVValue" with code from this git and use. :)
 
