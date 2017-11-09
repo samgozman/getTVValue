@@ -1,4 +1,4 @@
-#getTVValue for MODx Revolution CMS
+# getTVValue for MODx Revolution CMS
 
 My interpretation for lost snippet from MODX Evolution for MODX Revolution users.
 
@@ -15,6 +15,9 @@ Just create snippet "getTVValue" with code from this git and use. :)
 1. **TV value**
 
 
-##Examples of usage 
-		[[getTVValue? &resource=1 &tv=bottomPhone]] 		[[getTVValue? &resource=1 &tv=mainPhone]] 
+## Examples of usage
+
+		[[getTVValue? &resource=1 &tv=bottomPhone]] 		
+		[[getTVValue? &resource=1 &tv=mainPhone]]
+		
 It is useful when you need to use TV in a global chunk with a centralised change from one page.
